@@ -1,2 +1,3 @@
-# PRODIGY_CS_01
-Python Caesar Cipher tool by Prodigy Infotech intern. Encrypt/decrypt text with customizable shift. Simple interface, robust error handling. Ideal for learning and practical use.
+# Python Caesar Cipher Encryption and Decryption
+
+This repository contains a Python program developed by Prodigy Infotech's intern for Task 1. It encrypts and decrypts text using the Caesar Cipher algorithm. Users can specify a message and shift value for seamless encryption and decryption. Features include customizable shift values, robust error handling, and a simple interface. Written in Python, it's open-source and ideal for learning and practical use. Explore the documentation for insights into its functionalities and customization options. Join the open-source community for collaboration and enhancements.
